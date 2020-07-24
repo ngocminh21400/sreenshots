@@ -1,0 +1,10 @@
+D:\code\C#\Sreenshoot\Sreenshoot\bin\Debug\Sreenshoot.exe.config
+D:\code\C#\Sreenshoot\Sreenshoot\bin\Debug\Sreenshoot.exe
+D:\code\C#\Sreenshoot\Sreenshoot\bin\Debug\Sreenshoot.pdb
+D:\code\C#\Sreenshoot\Sreenshoot\obj\Debug\Sreenshoot.csprojAssemblyReference.cache
+D:\code\C#\Sreenshoot\Sreenshoot\obj\Debug\Sreenshoot.SreenShoot.resources
+D:\code\C#\Sreenshoot\Sreenshoot\obj\Debug\Sreenshoot.Properties.Resources.resources
+D:\code\C#\Sreenshoot\Sreenshoot\obj\Debug\Sreenshoot.csproj.GenerateResource.cache
+D:\code\C#\Sreenshoot\Sreenshoot\obj\Debug\Sreenshoot.csproj.CoreCompileInputs.cache
+D:\code\C#\Sreenshoot\Sreenshoot\obj\Debug\Sreenshoot.exe
+D:\code\C#\Sreenshoot\Sreenshoot\obj\Debug\Sreenshoot.pdb
